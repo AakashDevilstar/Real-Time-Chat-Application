@@ -1,0 +1,35 @@
+.register {
+    display: flex;
+    flex-direction: column;
+    padding: 12rem;
+    margin-top: -14rem;
+    margin-left: -8rem;
+}
+  
+.form-group {
+    margin-left: 1.2rem;
+}
+  
+label {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+  
+input {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+  
+button {
+    margin-top: 2rem;
+    border-radius: 2rem;
+}
+  
+button:hover {
+    background-color: red;
+    border-radius: 2rem;
+}
+  
+h2 {
+    font-size: 2rem; 
+}  
