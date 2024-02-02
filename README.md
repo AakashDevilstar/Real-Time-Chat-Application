@@ -1,4 +1,4 @@
-# Chat Application Frontend
+# Chat Application Frontend (Client-Side)
 ## Table of Contents
 Introduction
 
@@ -34,13 +34,13 @@ User registration and connection management
 # Getting Started
 ## Installation
 1.Clone the repository to your local machine:
-git clone https://github.com/your-username/chat-frontend.git
+## git clone https://github.com/AakashDevilstar/Real-Time-Chat-Application
 
 2.Navigate to the project directory:
-cd chat-frontend
+## cd chat-frontend
 
 3.Install the project dependencies:
-npm install
+## npm install
 
 ## Running the Application
 To run the application locally, follow these steps:
