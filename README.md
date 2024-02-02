@@ -56,4 +56,4 @@ If you'd like to contribute to this project, please follow the Contributing Guid
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Special thanks to the WebSocket.io and React communities for their excellent tools and documentation.
+Special thanks to the [WebSocket.io](https://socket.io/) and [React](https://react.dev/) communities for their excellent tools and documentation.
