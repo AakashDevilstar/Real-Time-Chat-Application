@@ -8,9 +8,9 @@ Prerequisites
 
 Getting Started
 
-Installation
+1. Installation
 
-Running the Application
+2. Running the Application
 
 Usage
 
