@@ -1,26 +1,16 @@
 # Chat Application Frontend (Client-Side)
 ## Table of Contents
-Introduction
-
-Features
-
-Prerequisites
-
-Getting Started
-
-1. Installation
-
-2. Running the Application
-
-Usage
-
-Technologies Used
-
-Contributing
-
-License
-
-Acknowledgments
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 Welcome to the Chat Application Frontend repository! This project is a React-based web application that allows users to engage in real-time chat within a chatroom or privately with other users.
