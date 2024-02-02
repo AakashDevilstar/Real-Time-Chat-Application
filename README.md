@@ -35,10 +35,9 @@ User registration and connection management
 ## Running the Application
 To run the application locally, follow these steps:
 
-1. Start the development server:
-## npm run start
+1. Start the development server: npm run start
 
-2. Open your web browser and navigate tohttp://localhost:3000.
+2. Open your web browser and navigate to http://localhost:3000.
 
 ## Usage
 Upon accessing the application, users can register their username.
