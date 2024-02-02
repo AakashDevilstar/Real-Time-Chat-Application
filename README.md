@@ -37,7 +37,7 @@ User registration and connection management
 ## git clone https://github.com/AakashDevilstar/Real-Time-Chat-Application
 
 2.Navigate to the project directory:
-## cd chat-frontend
+## cd Client-Side
 
 3.Install the project dependencies:
 ## npm install
@@ -57,10 +57,7 @@ Real-time messages are displayed in the chatbox.
 
 
 ## Technologies Used
-React
-WebSocket.io
-SockJS
-Stomp.js
+React,WebSocket.io,SockJS,Stomp.js
 
 ## Contributing
 If you'd like to contribute to this project, please follow the Contributing Guidelines.
